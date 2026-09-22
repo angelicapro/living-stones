@@ -31,7 +31,9 @@ Names, contact details, addresses, amounts, GCash references, prayer requests, a
 ## Documentation
 
 - [Why blockchain adds value](docs/blockchain-value.md)
+- [PoC architecture](docs/architecture.md)
+- [Testing guide](docs/testing-guide.md)
 
 ## Status
 
-Planning complete. Implementation has not started.
+Runnable PoC implemented. Follow the [testing guide](docs/testing-guide.md) to validate the complete journey locally.
